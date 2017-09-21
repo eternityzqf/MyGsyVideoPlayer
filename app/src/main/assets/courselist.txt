@@ -1,0 +1,30 @@
+{
+    "msg": "success",
+    "statuscode": 200,
+    "video": [
+        {
+            "cover": "http://images-1252720363.picgz.myqcloud.com/1@3x.png",
+            "title": "fewafeafewafeaw",
+            "url": "http://1252720363.vod2.myqcloud.com/9c0cd066vodtransgzp1252720363/3bb9bc3e9031868222969954994/f0.f30.mp4",
+            "videoId": 1
+        },
+        {
+            "cover": "http://images-1252720363.picgz.myqcloud.com/1@3x.png",
+            "title": "htrdshtshtrdhtd",
+            "url": "http://9890.vod.myqcloud.com/9890_4e292f9a3dd011e6b4078980237cc3d3.f20.mp4",
+            "videoId": 2
+        },
+        {
+            "cover": "http://images-1252720363.picgz.myqcloud.com/1@3x.png",
+            "title": "jytrjythtrdhtrdht",
+            "url": "http://baobab.wdjcdn.com/14564977406580.mp4",
+            "videoId": 9
+        },
+        {
+            "cover": "http://images-1252720363.picgz.myqcloud.com/1@3x.png",
+            "title": "htrdhtrdhtrdhtrd",
+            "url": "http://baobab.wdjcdn.com/145076769089714.mp4",
+            "videoId": 10
+        }
+    ]
+}
